@@ -1,0 +1,7 @@
+
+Bill Date: 2026-10-04 19:41:13.083310
+Paracetamol x 3 = Rs.60
+Discount: Rs.0.00
+GST: Rs.3.00
+Final Amount: Rs.63.00
+---------------------
